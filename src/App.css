@@ -1,0 +1,33 @@
+.btn-brand{
+  background-color: #111430;
+  border-color: transparent;
+  font-weight: 600;
+  width: 134px;
+  height: 45px;
+  color: white;
+  border-radius: 5px;
+}
+.btn-brand:hover{
+  background-color:  #91b75b;
+  color: #111430;
+}
+.text-brand{
+  color:  #91b75b;
+}
+.header-text{
+  color: #111430;
+}
+.text-p{
+  color: #4D4D4D;
+}
+.menu-link{
+  color: #474747;
+  font-weight: 500;
+  margin-right: 30px;
+}
+.logo{
+  height: 50px;
+}
+.error{
+  color: red;
+}

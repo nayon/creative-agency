@@ -1,0 +1,18 @@
+.login-form{
+    height: 500px;
+    width:50%;
+    box-shadow: 1px 1px 5px rgb(236, 235, 235);
+  }
+  .google-sign-in{
+    border: 1px solid gray;
+    border-radius:28px;
+    padding: 6px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .google-sign-in:hover{
+    background-color: #f8fafc;
+  }
+  .login-text{
+    padding: 2px 100px;
+  }

@@ -1,0 +1,19 @@
+.order-body{
+    background-color: #F4F7FC;
+    /* height: 100vh; */
+    /* position: fixed; */
+    padding-bottom: 200px;
+}
+/* .sticky {
+    background-color: white;
+    position: fixed;
+    z-index: 9999;
+    display: block;
+    width: 100%;
+} */
+.order-heading{
+    font-weight: 700;
+    color: #575757;
+    padding-top: 30px;
+    margin-left: -10px;
+}

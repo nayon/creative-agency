@@ -1,0 +1,4 @@
+.form-group>input::placeholder, .form-group>textarea::placeholder{
+    opacity: 0.6; 
+    font-size: 15px;
+  }
